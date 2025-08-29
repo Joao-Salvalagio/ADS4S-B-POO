@@ -18,7 +18,6 @@ public class Model {
 
     @Deprecated
     protected Model(){
-
     }
 
     public Model(int ID, String nome, int idade) {
